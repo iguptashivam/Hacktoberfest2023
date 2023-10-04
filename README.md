@@ -1,2 +1,2 @@
 # Hacktoberfest2023
-Blog website using basic CRUD Operations
+This can be your very first contribution for this hacktoberfest!!
