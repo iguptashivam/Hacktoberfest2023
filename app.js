@@ -17,8 +17,7 @@ db.once('open', function() {
 
 const port = process.env.PORT || 3000;
 
-const homeStartingContent = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum dolorem nostrum pariatur sed saepe, similique iste corrupti delectus aliquam officia alias inventore distinctio laboriosam in ea debitis, harum voluptatum perferendis." +
-"Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum dolorem nostrum pariatur sed saepe, similique iste corrupti delectus aliquam officia alias inventore distinctio laboriosam in ea debitis, harum voluptatum perferendis." +
+const homeStartingContent = " adipisicing elit. Rerum dolorem nostrum pariatur sed saepe, similique iste corrupti delectus aliquam officia alias inventore distinctio laboriosam in ea debitis, harum voluptatum perferendis." +
 "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum dolorem nostrum pariatur sed saepe, similique iste corrupti delectus aliquam officia alias inventore distinctio laboriosam in ea debitis, harum voluptatum perferendis.";
 
 const aboutContent = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum dolorem nostrum pariatur sed saepe, similique iste corrupti delectus aliquam officia alias inventore distinctio laboriosam in ea debitis, harum voluptatum perferendis." +
